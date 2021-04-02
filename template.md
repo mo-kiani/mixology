@@ -17,6 +17,12 @@ Here goes a Brief overall description of the drink including topics like:
 - How it makes you feel
 - Noteworthy qualities
 
+## Links
+This is where links to images, social media accounts, blogs, etc, where the
+drink makes an appearance are provided. These links are made by the author.
+
+## Mentions
+This is where links to mentions of this drink by third parties goes.
 
 ## Scores
 - Personal Taste on a scale of 5 stars (*****)
@@ -57,3 +63,4 @@ The number will always be rounded to the nearest 5%
 ## Credits
 Give shoutouts and share links to sources I either used directly or just for 
 inspiration.
+
