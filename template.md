@@ -54,3 +54,6 @@ strictly adhering to the simplest interpretation of the instructions.
 If there are multiple interpretations, then all should be listed.
 The number will always be rounded to the nearest 5%
 
+## Credits
+Give shoutouts and share links to sources I either used directly or just for 
+inspiration.
