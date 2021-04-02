@@ -32,8 +32,9 @@ This is where links to mentions of this drink by third parties goes.
 Place underscores for missing marks, for example 3 stars is ***__
 
 ## Ingredients
-- Name (amounts with unit)
-- Name (amounts with unit)
+- **Name (amounts with unit)**  
+*add special recommendations like brand/type*
+- **Name (amounts with unit)**   
 Generally aim to keep the list in decreasing order of total alcohol contribution
 
 ## Directions
