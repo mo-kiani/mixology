@@ -1,5 +1,12 @@
 # Title Goes Here
-A Brief Overall Description of the drink including topics like:
+
+###### Classification: goes here
+Classification is one of the following:
+- Original: Invented by myself
+- Modified: A small modification to adapt an existing drink to my tastes 
+- Reference: A reference copy of an existing recipe
+
+Here goes a Brief overall description of the drink including topics like:
 - Origin Story
 - Inspiration
 - Explanation of Name
@@ -8,6 +15,7 @@ A Brief Overall Description of the drink including topics like:
 - Target Audience
 - How it makes you feel
 - Noteworthy qualities
+
 
 ## Scores
 - Personal Taste on a scale of 5 stars (*****)
@@ -44,10 +52,4 @@ Approximate calculated value of alcohol in drink right after the drink is made
 strictly adhering to the simplest interpretation of the instructions.
 If there are multiple interpretations, then all should be listed.
 The number will always be rounded to the nearest 5%
-
-### Classification:
-One of the following:
-- Original: Invented by myself
-- Modified: A small modification to adapt an existing drink to my tastes 
-- Reference: A reference copy of an existing recipe
 
