@@ -1,11 +1,14 @@
 # Title Goes Here
 
 ###### Classification: goes here
+```
 Classification is one of the following:
-- Original: Invented by myself
-- Interpretation: My precise and refined method of making a well-known drink
-- Modification: A substative modification to an existing drink
-- Reference: A reference copy of an existing recipe with no creative input
+    Original: Invented by myself
+    Interpretation: My precise and refined method of making a well-known drink
+    Modification: A substative modification to an existing drink
+    Reference: A reference copy of an existing recipe with no creative input
+```
+
 
 Here goes a Brief overall description of the drink including topics like:
 - Origin Story
