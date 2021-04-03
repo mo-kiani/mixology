@@ -24,3 +24,6 @@ It's a super fun party shot, no need to say more.
 4. Drop the Irish Cream in, so it pulls some of the curacao down with it, and
 maybe 'wakes up' the grenadine a bit too.
 
+## Credits
+Thank you Tipsy Bartender for exposing me to this awesome drink recipe!
+
