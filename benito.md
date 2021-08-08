@@ -60,7 +60,7 @@ accordingly*
 *I prefer Corona or Mariachi when it was available*
 
 ## Directions
-1. (Optional) If you want to add beer, make sure it is ice-hold
+1. (Optional) If you want to add beer, make sure it is ice-cold
 2. Pour some ice into a shaker
 3. Pour the Tequila, Orange Liqueur, and Lillet in
 4. Stir gently, don't shake. Don't water it down too much. We want it cool and 
